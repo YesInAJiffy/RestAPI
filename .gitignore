@@ -1,0 +1,3 @@
+# ignore all directories with the name node
+node/
+.DS_Store
